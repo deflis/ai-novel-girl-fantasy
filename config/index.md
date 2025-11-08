@@ -16,11 +16,11 @@
 - カフェの平和な日常（ホットスタート）
 - 関連: [world/木漏れ日の薬湯.md](../world/木漏れ日の薬湯.md), [characters/聖獣.md](../characters/聖獣.md)
 
-### [plot/第一部.md](../plot/第一部.md) - 第002〜009話
+### [plot/第一部.md](../plot/第一部.md) - 第002〜010話
 - アリアの宮廷魔導師時代（過去編）
 - 関連: [characters/アリア・レンフィールド.md](../characters/アリア・レンフィールド.md), [characters/ゼノン・アークライト.md](../characters/ゼノン・アークライト.md), [world/宮廷.md](../world/宮廷.md)
 
-### [plot/第二部.md](../plot/第二部.md) - 第010話〜
+### [plot/第二部.md](../plot/第二部.md) - 第011話〜
 - カフェ開店から聖獣たちとの出会い
 - 関連: [world/木漏れ日の薬湯.md](../world/木漏れ日の薬湯.md), [characters/聖獣.md](../characters/聖獣.md), [characters/村の人々.md](../characters/村の人々.md)
 
