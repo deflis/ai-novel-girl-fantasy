@@ -20,9 +20,15 @@
 - アリアの宮廷魔導師時代（過去編）
 - 関連: [characters/アリア・レンフィールド.md](../characters/アリア・レンフィールド.md), [characters/ゼノン・アークライト.md](../characters/ゼノン・アークライト.md), [world/宮廷.md](../world/宮廷.md)
 
-### [plot/第二部.md](../plot/第二部.md) - 第011話〜
+### [plot/第二部.md](../plot/第二部.md) - 第011〜032話
 - カフェ開店から聖獣たちとの出会い
 - 関連: [world/木漏れ日の薬湯.md](../world/木漏れ日の薬湯.md), [characters/聖獣.md](../characters/聖獣.md), [characters/村の人々.md](../characters/村の人々.md)
+
+### [plot/第三部.md](../plot/第三部.md) - 第033〜057話
+- 宮廷からの追手、ゼノンの登場
+- 過去との対峙と守るべきものの発見
+- アリアの覚醒と新たな力
+- 関連: [characters/ゼノン・アークライト.md](../characters/ゼノン・アークライト.md), [world/宮廷.md](../world/宮廷.md), [characters/聖獣.md](../characters/聖獣.md), [characters/村の人々.md](../characters/村の人々.md)
 
 ---
 
